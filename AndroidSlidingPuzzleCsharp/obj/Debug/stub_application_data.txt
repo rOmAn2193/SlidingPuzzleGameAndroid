@@ -1,0 +1,2 @@
+android.app.Application
+ca.cinard.android_sliding_puzzle_csharp
